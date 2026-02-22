@@ -4,13 +4,12 @@
     "name": "Mark Rogers"
   },
   "metadata": {
-    "description": "Skills for coding agents",
-    "version": "1.0.0"
+    "description": "Skills for coding agents"
   },
   "plugins": [
     {
-      "name": "markrogersjr-skills",
-      "description": "Skills for coding agents",
+      "name": "locality",
+      "description": "Use locality of reference, a declarative style, and more to simplify code and make it more readable",
       "source": "./",
       "strict": false,
       "skills": [
