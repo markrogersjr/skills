@@ -1,0 +1,21 @@
+{
+  "name": "markrogersjr-skills",
+  "owner": {
+    "name": "Mark Rogers"
+  },
+  "metadata": {
+    "description": "Skills for coding agents",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "markrogersjr-skills",
+      "description": "Skills for coding agents",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/locality"
+      ]
+    }
+  ]
+}
