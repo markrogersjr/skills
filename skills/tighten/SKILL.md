@@ -1,9 +1,9 @@
 ---
-name: locality
-description: Use locality of reference, a declarative style, and more to simplify code and make it more readable
+name: tighten
+description: Use a declarative style, locality of reference, and more to simplify code and make it more readable
 ---
 
-# The Locality Coding Style for Readability and Simplification
+# Tighten: Declarative Style, Locality, and Simplification
 
 The following guidelines minimize two metrics from *Code Complete* by Steve McConnell that determine how much back-and-forth a reader must do to understand code:
 

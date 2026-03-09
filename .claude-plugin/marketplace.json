@@ -8,12 +8,12 @@
   },
   "plugins": [
     {
-      "name": "locality",
-      "description": "Use locality of reference, a declarative style, and more to simplify code and make it more readable",
+      "name": "tighten",
+      "description": "Use a declarative style, locality of reference, and more to simplify code and make it more readable",
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/locality"
+        "./skills/tighten"
       ]
     }
   ]
