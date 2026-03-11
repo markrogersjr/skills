@@ -606,6 +606,22 @@ result = (
 )
 ```
 
+Never use trailing commas in the last element of a list, dict, tuple, function call, or function signature.
+
+```python
+# bad
+config = {
+    'name': 'bob',
+    'age': 12,
+}
+
+# good
+config = {
+    'name': 'bob',
+    'age': 12
+}
+```
+
 Avoid unnecessary vertical whitespace. Only use blank lines to separate functions, imports, and code blocks that have a comment header.
 
 Use assertions for preconditions and parameter validation.
